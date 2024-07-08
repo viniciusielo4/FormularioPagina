@@ -1,0 +1,31 @@
+body{
+   background-image: url(./img/paredeCinzahtml2.avif) ;
+}
+.title{
+    text-align: center;
+    font-size: 50px;
+
+}
+.botaoretorno{
+    width: 200px; /* largura desejada */
+    height: 50px; /* altura desejada */
+    font-size: 16px; /* tamanho da fonte */
+            
+            background-color: #4CAF50; /* cor de fundo */
+            color: white; /* cor do texto */
+            border: none; /* remover borda */
+            cursor: pointer; /* cursor ao passar por cima */
+            border-radius: 5px; /* bordas arredondadas */
+    
+    
+    
+    
+    
+    
+   
+    border-radius: 20px;
+    margin-top: 25%;
+    margin-left: 43%;
+    
+   
+}
